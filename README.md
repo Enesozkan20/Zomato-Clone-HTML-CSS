@@ -1,4 +1,4 @@
-# 🍽️ Zomato Clone - Restaurant Finder UI
+# 🍽️ Zomato Clone - Restaurant Finder 
 
 ![HTML](https://img.shields.io/badge/HTML-Standard-orange)
 ![CSS](https://img.shields.io/badge/CSS-Styling-blue)
